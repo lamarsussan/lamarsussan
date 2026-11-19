@@ -59,8 +59,11 @@ A dynamic memory allocator implemented in **C++ on Linux**, without relying on s
 - 🛠️ Exploring systems programming and software engineering
 - 🌱 Building practical projects and learning new technologies
 
-## 🌐 Let's Connect
 
-I'm open to **student software engineering opportunities** and always happy to connect!
+## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lamar%20Sussan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamarsussan/)
+I'm always happy to connect, collaborate, and explore new opportunities! 💜
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamarsussan/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lamar.sussan@gmail.com)
+
